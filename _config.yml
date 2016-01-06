@@ -1,0 +1,14 @@
+layout_spectrum: 0.02758525
+color:
+  saturation: 0.7017366
+  brandStrength: 0.3195353
+  lightness: 0.9139785
+  brandColors:
+    - '#4365AC'
+    - '#0C0F03'
+    - '#FFFFC6'
+    - '#CFC677'
+    - '#918839'
+  rhythmicContrast: 0.7876438
+typography_spectrum: 0.9671977
+name: 'Latino traveller '
